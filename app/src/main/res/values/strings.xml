@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">evaluation2_recyclerview</string>
+    <string name="header">New Card</string>
+    <string name="offer1">Card with Coke</string>
+    <string name="offer2">100 Credits Prize/Ticket Game Card</string>
+    <string name="offer3">New Birthday Card</string>
+    <string name="offer4">Birthday game card with Discount</string>
+    <string name="offer5">Birthday game card with 10% discount</string>
+    <string name="location_mangalore">Semnox Mangalore</string>
+    <string name="location_bangalore">Semnox Bangalore</string>
+    <string name="location_delhi">Semnox Delhi</string>
+</resources>
